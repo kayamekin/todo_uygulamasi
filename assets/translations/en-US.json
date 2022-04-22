@@ -1,0 +1,11 @@
+{
+    "title": "What will you today?",
+    "empty_task_list" : "Come on! Add a task",
+    "add_task" : "What is task",
+    "remove_task" : "This task was deleted",
+    "archive_text" : "Archive",
+    "clear_text" : "clear",
+    "search_text" : "Search Task",
+    "remove_text" : "Remove",
+    "not_search_task" : "Not search task"
+}

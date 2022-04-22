@@ -1,0 +1,11 @@
+{
+    "title": "Bugün neler yapacaksın?",
+    "empty_task_list" : "Hadi bir görev ekle",
+    "add_task" : "Görev nedir ? ",
+    "remove_task" : "Bu görev silindi",
+    "archive_text" : "Arşiv",
+    "clear_text" : "temizle",
+    "search_text" : "Görev Ara",
+    "remove_text" : "Sil",
+    "not_search_task" : "Aradığınız görev yok"
+}
